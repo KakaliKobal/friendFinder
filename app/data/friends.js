@@ -1,7 +1,7 @@
 var friends = [
     {
         name: "Deric",
-        photo: "https://www.facebook.com/photo.php?fbid=10155412711735254&set=pb.822050253.-2207520000.1513964639.&type=3&theater",
+        photo: "https://i.imgur.com/StkUS1i.jpg",
         scores: [
             "4",
             "3",
@@ -22,7 +22,7 @@ var friends = [
     },
     {
         name: "Diana",
-        photo: "https://www.facebook.com/photo.php?fbid=1990384534572318&set=pb.100008023712926.-2207520000.1513965049.&type=3&theater",
+        photo: "https://i.imgur.com/iRgWha0.jpg",
         scores: [
             "3",
             "3",
@@ -43,7 +43,7 @@ var friends = [
     },
     {
         name: "Maryssa",
-        photo: "https://www.facebook.com/photo.php?fbid=10202004312586421&set=pb.1744017033.-2207520000.1513965319.&type=3&theater",
+        photo: "https://i.imgur.com/qgHyeWP.jpg",
         scores: [
             "2",
             "4",
@@ -64,7 +64,7 @@ var friends = [
     },
     {
         name: "BoBo",
-        photo: "https://www.facebook.com/photo.php?fbid=1942279682716137&set=pb.100008023712926.-2207520000.1513965613.&type=3&theater",
+        photo: "https://i.imgur.com/t0acKEt.jpg",
         scores: [
             "3",
             "3",

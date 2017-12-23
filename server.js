@@ -4,9 +4,7 @@ var app = express();
 
 var PORT = process.env.PORT || 8080;
 
-var jsonParser = bodyParser.json()
-
-var urlencodedParser = bodyParser.urlencoded({ extended: false });
+app.use(bodyParser.urlencoded({ extended: true }));
 
 app.use(bodyParser.json({ type: 'application/**json' }))
 app.use(bodyParser.raw({ type: 'application/vnd.custon-type' }))
