@@ -1,4 +1,5 @@
-#FriendFinder
+
+FriendFinder
 This application is designed to help you find your match. It will take in results from users' surveys then compare their results against all other users who have completed it. The application will then display the name and picture of the user with the best match overall.
 
 Live Link
